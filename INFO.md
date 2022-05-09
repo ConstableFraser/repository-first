@@ -1,4 +1,4 @@
 git is awesome!
 new line
-first commit
+f0 commit
 second commit
