@@ -16,3 +16,4 @@ commit for delete#2
 amend comand
 -----test git add.-----
 ===test git commit -am ''====
+{}[]
