@@ -12,3 +12,4 @@ second commit
 =======
 first commit
 >>>>>>> parent of 84327bd... edit INFO.md: added second string
+commit for delete#2
